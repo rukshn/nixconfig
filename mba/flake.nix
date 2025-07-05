@@ -16,7 +16,7 @@
         [ 
 	        pkgs.tmux
 	        pkgs.neovim
-          pkgs.ice-bar
+                pkgs.ice-bar
         ];
 
       # Necessary for using flakes on this system.
